@@ -33,4 +33,4 @@ pacmd load-module module-jack-sink channels=1 sink_name=pithos-out client_name=p
 PULSE_SINK=firefox-out firefox &
 
 # launch jack applications-Switched REAPER/reaper to arduour5
-~/bin/ardour5
+usr/bin/ardour5
